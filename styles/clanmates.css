@@ -1,0 +1,11 @@
+.tsetup{
+	overflow-y: scroll;
+	height:100%;
+}
+
+table{
+	width: 300px;
+    background-image : url('images/table-bg.svg');
+    background-repeat: no-repeat;
+    background-position: center top;
+}
